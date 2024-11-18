@@ -1,4 +1,4 @@
-Hello!
+NEEDS UPDATING TO Ubuntu 22.04 LTS
 
 Below you can find a outline of how to run my solution to Kaggle's Abstraction and Reasoning Challenge.
 If you run into any trouble with the setup/code or have any questions you can contact me at top-quarks@protonmail.com
